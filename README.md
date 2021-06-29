@@ -1,3 +1,5 @@
+nice list from https://dev.to/ankit01oss/7-github-projects-essential-for-every-javascript-developer-258i
+
 # JavaScript Algorithms and Data Structures
 
 [![CI](https://github.com/trekhleb/javascript-algorithms/workflows/CI/badge.svg)](https://github.com/trekhleb/javascript-algorithms/actions?query=workflow%3ACI+branch%3Amaster)
